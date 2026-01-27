@@ -1,0 +1,4 @@
+name: schipaoMotd
+version: '1.0-SNAPSHOT'
+main: sh.ftp.schipao.schipaoMotd.SchipaoMotd
+api-version: '1.21'
