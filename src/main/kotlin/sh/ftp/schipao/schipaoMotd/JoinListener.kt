@@ -33,7 +33,7 @@ class JoinListener : Listener {
                 )
                 .append(
                     Component.text("▶ Mod Survival Moddata\n")
-                        .color(NamedTextColor.GREEN)
+                        .color(NamedTextColor.DARK_GREEN)
                         .clickEvent(ClickEvent.openUrl("https://example.com/modpack"))
                 )
                 .append(
