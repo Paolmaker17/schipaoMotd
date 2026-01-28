@@ -6,6 +6,8 @@ class SchipaoMotd : JavaPlugin() {
 
     override fun onEnable() {
         // Plugin startup logic
+
+        server.pluginManager.registerEvents(JoinListener(), this)
     }
 
     override fun onDisable() {
