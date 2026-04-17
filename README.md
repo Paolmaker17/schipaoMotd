@@ -2,6 +2,12 @@
 
 A lightweight Minecraft plugin written in Kotlin that automatically sends a private welcome message to players when they join the server.
 
+<p>
+  <!-- Badges -->
+  <img src="https://img.shields.io/badge/Minecraft-1.20+-brightgreen" />
+  <img src="https://img.shields.io/badge/Paper-Plugin-blue" />
+</p>
+
 >The message includes a greeting and customizable clickable links.
 
 ---
@@ -14,7 +20,6 @@ A lightweight Minecraft plugin written in Kotlin that automatically sends a priv
 - Lightweight and fast  
 - Written in **Kotlin**
 
----
 
 ## Installation
 ### Prerequisites
@@ -27,8 +32,6 @@ A lightweight Minecraft plugin written in Kotlin that automatically sends a priv
 2. Download the latest release from the **Releases** tab
 3. Place the `.jar` file into your `plugins/` folder
 4. Start your server
-
----
 
 ## Configuration
 
