@@ -2,7 +2,7 @@
 
 A lightweight Minecraft plugin written in Kotlin that automatically sends a private welcome message to players when they join the server.
 
-The message includes a greeting and customizable clickable links.
+>The message includes a greeting and customizable clickable links.
 
 ---
 
