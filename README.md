@@ -24,20 +24,19 @@ A lightweight Minecraft plugin written in Kotlin that automatically sends a priv
 ## Installation
 ### Prerequisites
 
-  - PaperMC 1.20+
-  - Java 17+
+  - [PaperMC 1.20+](https://papermc.io/)
+  - [Java 17+](https://www.java.com/)
 
 ### Setup
-1. Install PaperMC
-2. Download the latest release from the **Releases** tab
-3. Place the `.jar` file into your `plugins/` folder
-4. Start your server
+-Download the latest release from the **Releases** tab
+   
+-Place the `.jar` file into your `plugins/` folder
+   
+-Start your server
 
 ## Configuration
 
 Currently, messages are configured directly in the source code.
-
-Example:
 
 ```kotlin
 event.player.sendMessage(
