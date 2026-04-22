@@ -4,7 +4,7 @@ A lightweight Minecraft plugin written in Kotlin that automatically sends a priv
 
 <p>
   <!-- Badges -->
-  <img src="https://img.shields.io/badge/Minecraft-1.20+-brightgreen" />
+  <img src="https://img.shields.io/badge/Minecraft-1.21.11-brightgreen" />
   <img src="https://img.shields.io/badge/Paper-Plugin-blue" />
 </p>
 
@@ -24,8 +24,8 @@ A lightweight Minecraft plugin written in Kotlin that automatically sends a priv
 ## Installation
 ### Prerequisites
 
-  - [PaperMC 1.20+](https://papermc.io/)
-  - [Java 17+](https://www.java.com/)
+  - [PaperMC 1.21.11](https://papermc.io/)
+  - Java 21
 
 ### Setup
 -Download the latest release from the **Releases** tab
